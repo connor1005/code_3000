@@ -10,3 +10,4 @@
 This repository is very low risk and only used by one 'developer', so any security measures other than the following would be overkill:
 - The repository is set to private.
 - A standard .gitignore file is used.
+- The CODEOWNERS file is kept from the original repository marking it as owned by the professor.
